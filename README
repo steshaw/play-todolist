@@ -1,4 +1,9 @@
 This is your new Play 2.1 application
 =====================================
 
+See http://www.playframework.com/documentation/2.1.0/ScalaTodoList
+
+
+Note:
+
 This file will be packaged with your application, when using `play dist`.
